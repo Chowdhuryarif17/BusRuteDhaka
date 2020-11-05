@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="visible"
+    tools:context=".FirstActivity">
+<!--
+    <Button
+        android:id="@+id/insertButtonId"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/allBusButtonId"
+        android:layout_marginStart="56dp"
+        android:background="#b4a1a1"
+        android:text="Insert"
+        android:textStyle="bold" />
+-->
+
+    <Button
+        android:id="@+id/allBusButtonId"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/searchBySourceDestinationButtonId"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="12dp"
+        android:background="#b4a1a1"
+        android:text="All Bus"
+        android:textStyle="bold" />
+
+
+    <AutoCompleteTextView
+        android:id="@+id/autoCompleteTextViewBusNameId"
+        android:layout_width="237dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="17dp"
+        android:layout_marginTop="81dp"
+        android:drawableLeft="@drawable/magnifier"
+        android:drawablePadding="10dp"
+        android:hint="  Enter Bus Name"
+        android:textColorHint="#898888"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/searchByBusNameButtonId"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="14dp"
+        android:layout_marginTop="91dp"
+        android:background="#fcfafa"
+        android:drawableLeft="@drawable/search"
+        android:paddingLeft="15dp" />
+
+
+    <AutoCompleteTextView
+        android:id="@+id/autoCompleteTextViewSourceNameId"
+        android:layout_width="237dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/autoCompleteTextViewDestinationNameId"
+        android:layout_alignStart="@+id/autoCompleteTextViewBusNameId"
+        android:layout_marginBottom="-197dp"
+        android:drawableLeft="@drawable/home"
+        android:drawablePadding="20dp"
+        android:hint="Enter Source"
+        android:textColorHint="#898888"
+        android:textSize="20sp" />
+
+    <AutoCompleteTextView
+        android:id="@+id/autoCompleteTextViewDestinationNameId"
+        android:layout_width="237dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/autoCompleteTextViewBusNameId"
+        android:layout_marginTop="197dp"
+        android:drawableLeft="@drawable/destination"
+        android:drawablePadding="20dp"
+        android:hint="Enter Destination"
+        android:textColorHint="#898888"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/searchBySourceDestinationButtonId"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/searchByBusNameButtonId"
+        android:layout_marginTop="175dp"
+        android:background="#fcfbfb"
+        android:drawableLeft="@drawable/search"
+        android:paddingLeft="15dp" />
+
+
+    <TextView
+        android:id="@+id/searchResultID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="249dp"
+        android:text="Search result:  "
+        android:textSize="18sp" />
+
+<!--
+    <fragment
+        android:id="@+id/searchResultFragmentId"
+        android:name="com.example.chowdhuryarif.busrutedhaka.SearchResultFragment"
+        android:layout_width="match_parent"
+        android:layout_height="214dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="0dp" />
+-->
+    <ExpandableListView
+        android:id="@+id/searchResultExpandableListViewId"
+        android:layout_width="wrap_content"
+        android:layout_height="205dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="0dp">
+
+    </ExpandableListView>
+
+    <TextView
+        android:id="@+id/textViewId"
+        android:layout_width="110dp"
+        android:layout_height="31dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="239dp"
+        android:layout_marginEnd="51dp"
+        android:text="TextView" />
+
+
+</RelativeLayout>

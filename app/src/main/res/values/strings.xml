@@ -1,0 +1,356 @@
+<resources>
+    <string name="app_name">ঢাকার বাস রুট</string>
+    <string-array name="route_Names">
+
+        <item>Abdullahpur</item>
+        <item>Agargaon</item>
+        <item>Airport</item>
+        <item>Ansar Camp</item>
+        <item>Arambagh</item>
+        <item>Asad Gate</item>
+        <item>Azampur</item>
+        <item>Azimpur</item>
+
+        <item>Bakshi Bazar</item>
+        <item>Banani(Kakoly)</item>
+        <item>Banani Bazar</item>
+        <item>Bangabandhu Avenue</item>
+        <item>Bangla College</item>
+        <item>Banglamotor</item>
+        <item>Bango Bazar(Phulbaria)</item>
+        <item>Basherpur</item>
+        <item>Bashundhara</item>
+        <item>Bashundhara City</item>
+        <item>Bijoy Sarani</item>
+        <item>Bishwaroad</item>
+        <item>Board Office</item>
+        <item>Boardbazar</item>
+        <item>Boro Maghbazar</item>
+
+        <item>Cantonment</item>
+        <item>Chairmanbari</item>
+        <item>Chankharpul</item>
+        <item>Chinese</item>
+        <item>Chourangi</item>
+        <item>College Gate</item>
+        <item>Council</item>
+
+        <item>Dainik Bangla</item>
+        <item>Dayaganj</item>
+        <item>Della</item>
+        <item>Demra</item>
+        <item>Dhakeshwari Mandir</item>
+        <item>Dhanmondi 15</item>
+        <item>Dhupkhola(Gandaria)</item>
+        <item>Doaripara</item>
+
+        <item>Elephant Road</item>
+        <item>Etimkhana</item>
+
+        <item>Fakirapul</item>
+        <item>Farmgate</item>
+
+        <item>Gabtoli</item>
+        <item>Gulistan</item>
+        <item>Gulshan 1</item>
+        <item>Gulshan 2</item>
+
+        <item>House Building</item>
+
+        <item>IDB Bhaban</item>
+        <item>Ittefaq Office</item>
+
+        <item>Jasimuddin Road</item>
+        <item>Jatrabari</item>
+        <item>Jigatola</item>
+        <item>Joykali Mandir</item>
+
+        <item>Kajipara</item>
+        <item>Kajla</item>
+        <item>Kakrail</item>
+        <item>Kalabagan</item>
+        <item>Kalyanpur</item>
+        <item>Kamalapur</item>
+        <item>Kataban</item>
+        <item>Katherpool</item>
+        <item>Kawla</item>
+        <item>Kawran Bazar</item>
+        <item>Khilgaon Railgate</item>
+        <item>Khilgaon Taltola</item>
+        <item>Khilkhet</item>
+        <item>Konapara</item>
+        <item>Krishi Market</item>
+        <item>Kuril</item>
+
+        <item>MES</item>
+        <item>Maddhya Basabo</item>
+        <item>Madhya Badda</item>
+        <item>Mahutyle</item>
+        <item>Malibagh</item>
+        <item>Malibagh Chowdhury Para</item>
+        <item>Malibagh Railgate</item>
+        <item>Matsha Bhaban</item>
+        <item>Medical(Dhaka)</item>
+        <item>Mirpur Section 1</item>
+        <item>Mirpur Section 10(Gol Chokkor)</item>
+        <item>Mirpur Section 11</item>
+        <item>Mirpur Section 11.5(Share Egaro)</item>
+        <item>Mirpur Section 12</item>
+        <item>Mirpur Section 12</item>
+        <item>MirpurNo2</item>
+        <item>Mogh Bazar</item>
+        <item>Mohakhali</item>
+        <item>Mohammadpur Bus Stand</item>
+        <item>Motijheel</item>
+        <item>Mouchak</item>
+        <item>Mugda Para</item>
+
+        <item>Nabisco</item>
+        <item>Natun Bazar</item>
+        <item>Nayabazar</item>
+        <item>Nayapaltan</item>
+        <item>New Eskaton</item>
+        <item>New Market</item>
+        <item>Nilkhet</item>
+        <item>Norda</item>
+
+        <item>Palashi</item>
+        <item>Pallabi</item>
+        <item>Paltan</item>
+        <item>Physical College</item>
+        <item>Pirjongi Mazar</item>
+        <item>Postogola</item>
+        <item>Press Club</item>
+        <item>Purobi Cinema Hall</item>
+
+        <item>Rai Shaheb Bazar</item>
+        <item>Rajdhani Super Market</item>
+        <item>Rajlaksmi</item>
+        <item>Rampura(bazar)</item>
+        <item>Rampura TV Center</item>
+        <item>Rupnagar</item>
+
+        <item>Sabujbagh</item>
+        <item>Sayeda Bad</item>
+        <item>Science Lab</item>
+        <item>Shahbagh</item>
+        <item>Shahzadpur</item>
+        <item>Shakti Oushadhaloy</item>
+        <item>Shamibagh</item>
+        <item>Shamoly</item>
+        <item>Shankar</item>
+        <item>Shantinagar</item>
+        <item>Shat Rasta</item>
+        <item>Shawra</item>
+        <item>Shewrapara</item>
+        <item>Shia Masjid</item>
+        <item>Shialbari</item>
+        <item>Sohrawardi</item>
+        <item>Sony Cinema Hall</item>
+        <item>Staff Quarter</item>
+        <item>Staff Road</item>
+        <item>Station Road</item>
+        <item>Sukrabad</item>
+
+        <item>Taltola</item>
+        <item>Technical</item>
+        <item>Tibet(Kohinoor Chemical)</item>
+        <item>Tikatuli</item>
+        <item>Titumir College</item>
+        <item>Tongi</item>
+        <item>Tongi College</item>
+        <item>Topkhana</item>
+
+        <item>Uttar Badda</item>
+        <item>Uttara</item>
+
+        <item>Vidyabari</item>
+
+        <item>Wireless Gate</item>
+    </string-array>
+
+
+    <string-array name="bus_names">
+
+        <item>13 No</item>
+        <item>6 No</item>
+        <item>7 No</item>
+        <item>8 No</item>
+
+        <item>Achim Paribahan</item>
+        <item>Agradut</item>
+        <item>Airport Bangabandhu Avenue</item>
+        <item>Akik Paribahan</item>
+        <item>Al Madina Plus One</item>
+        <item>Al Makka Transport</item>
+        <item>Alif Enterprise</item>
+        <item>Alif Enterprise 2</item>
+        <item>Alif Enterprise 3</item>
+        <item>Akike</item>
+        <item>Anabil</item>
+        <item>Ashirbad Paribahan</item>
+        <item>Ashulia Classic</item>
+        <item>Asmani Paribahan</item>
+        <item>Ayat</item>
+        <item>Azmery Glory</item>
+
+        <item>BRTC</item>
+        <item>BRTC 2</item>
+        <item>BRTC 3</item>
+        <item>BRTC 4</item>
+        <item>BRTC 5</item>
+        <item>BRTC 6</item>
+        <item>Bahon</item>
+        <item>Balaka Paribahan</item>
+        <item>Basumati Transport</item>
+        <item>Best Transport</item>
+        <item>Bhuiyan Paribahan</item>
+        <item>Bihanga Paribahan</item>
+        <item>Bihanga Paribahan 2</item>
+        <item>Bikalpa Auto Service</item>
+        <item>Bikalpa City Super Service</item>
+        <item>Bikash Paribahan</item>
+        <item>Boishakhi Paribahan</item>
+        <item>Bondhu Paribahan</item>
+        <item>Bornomala Paribahan</item>
+        <item>Brothers</item>
+
+
+    </string-array>
+
+
+    <string-array name="full_routes">
+        <item>
+            \n\n1.Route: Mohammadpur~Shankar~Star Kabab~Dhanmondi 15~Jigatola-City College~New Market~Nilkhet~Ajimpur
+        </item>
+
+        <item>
+            \n\n2.Route: Kamalapur~Motijheel~Gulistan~GPO~Paltan~Kakrail~Shantinagar~Malibagh Mor~Mouchak~Moghbazar~Satrasta~Nabisco~Mohakhali~Wirelesssmor~Gulshan 1~Gulshan 2~Natun Bazar
+        </item>
+
+
+        <item>
+            \n\n3.Route: Gabtoli~Technical~Kallyanpur~Shyamoli~Shishu Mela~College Gate~Asad Gate~Dhanmondi 27~Dhanmondi 32~Kalabagan~Science Lab~Katabon~Shahbag~High Court~Press Club~Paltan~GPO~Golap Shah Mazar~Gulistan~Naya Bazar~Ray Shaheb Bazar~Sadarghat
+        </item>
+
+        <item>
+            \n\n4.Route: Jatrabari~Jonopath Mor~Sayedabad~Motijheel~Daynik Bangla Mor~Paltan~Press Club~High Court~Shahbag~Bangla Motor~Kawran Bazar~Farmgate~Khamarbari~Asad Gate~college Gate~Shishu Mela~Shyamoli~Kallyanpur~Technical~Gabtoli
+        </item>
+
+        <item>
+            \n\n5.Route: Mohammadpur-Shankar-Star Kabab-Dhanmondi15-Jigatola-City College-New Market-Nilkhet-Ajimpur
+        </item>
+
+        <item>
+            \n\n6.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n7.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n8.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n9.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n10.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n11.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n12.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n13.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n14.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n15.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n16.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n17.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n18.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n19.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n20.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+
+        <item>
+            \n\n21.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n22.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n23.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n24.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n25.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n26.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n27.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n28.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n29.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n30.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n31.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n32.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n33.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n34.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n35.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n36.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n37.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n38.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n39.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+        <item>
+            \n\n40.Route: Kamalapur-Motijheel-Gulistan-GPO-Paltan-Kakrail-Shantinagar-Malibagh Mor-Mouchak-Moghbazar-Satrasta-Nabisco-Mohakhali-Wirelesssmor-Gulshan 1-Gulshan 2-Natun Bazar
+        </item>
+
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#22c8ff"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context=".InsertActivity">
+
+
+
+    <EditText
+        android:id="@+id/busNameId"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:hint="Bus Name"
+        android:textColor="#FFFFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <Button
+        android:id="@+id/insertBusId"
+        android:layout_marginTop="10dp"
+
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+
+        android:text="Insert Bus"
+        android:textColor="#FFFFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="20dp"
+
+        android:background="@color/colorPrimaryDark"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        />
+
+
+    <EditText
+        android:id="@+id/placeNameId"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:hint="Place Name"
+        android:textColor="#FFFFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <Button
+        android:id="@+id/insertPlaceId"
+        android:layout_marginTop="10dp"
+
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+
+        android:text="Insert Place"
+        android:textColor="#FFFFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="20dp"
+
+        android:background="@color/colorPrimaryDark"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        />
+
+
+    <EditText
+        android:id="@+id/fkBusId"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:hint="Bus Id"
+        android:textColor="#FFFFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <EditText
+        android:id="@+id/fkPlaceId"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:hint="Place Id"
+        android:textColor="#FFFFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <Button
+        android:id="@+id/insertCoverId"
+        android:layout_marginTop="10dp"
+
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+
+        android:text="Insert Cover"
+        android:textColor="#FFFFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="20dp"
+
+        android:background="@color/colorPrimaryDark"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        />
+
+</LinearLayout>
